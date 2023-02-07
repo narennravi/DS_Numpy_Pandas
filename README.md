@@ -1,1 +1,1 @@
-# DS_Numpy_Pandas - Practice session of df using in numpy and pandas.
+# DS_Numpy_Pandas - Practice session of df using numpy & pandas.
